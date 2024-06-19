@@ -19,3 +19,7 @@ Then run it with the following command:
 ```
 make run
 ```
+
+## Example
+
+![Example](example.gif)
